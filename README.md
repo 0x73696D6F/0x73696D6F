@@ -1,21 +1,5 @@
-<style>
-  a{
-    width: 20px;
-    height: 20px;
-    background-color: white;
-  }
-  h1{
-    color: red;
-  }
-</style>
-
-
 <h1 align="center">Hi 👋, I'm Simone</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="center">Just a programmer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
